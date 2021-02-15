@@ -23,7 +23,7 @@ function Home() {
 
       <div className="home__body">
         <img
-          src="https://cdn.pixabay.com/photo/2015/10/31/12/54/google-1015751_960_720.png"
+          src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
           alt=""
         />
         <div className="home__inputContainer">
